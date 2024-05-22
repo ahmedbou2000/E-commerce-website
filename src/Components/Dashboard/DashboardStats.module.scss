@@ -1,0 +1,32 @@
+// src/pages/Dashboard/DashboardStats.module.scss
+.dashboardStats {
+    margin-top: 30px;
+  }
+  
+  .stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .statItem {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 10px;
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+  }
+  
+  .statItem h3 {
+    margin-bottom: 10px;
+  }
+  
+  .statItem p {
+    font-size: 1.5em;
+    color: #333;
+  }
+  

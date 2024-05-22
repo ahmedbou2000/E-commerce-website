@@ -1,0 +1,19 @@
+// src/pages/Dashboard/DashboardInfo.module.scss
+.dashboardInfo {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .dashboardInfo h2 {
+    margin-bottom: 10px;
+  }
+  
+  .dashboardInfo p {
+    font-size: 1em;
+    color: #333;
+  }
+  

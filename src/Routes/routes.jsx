@@ -1,4 +1,5 @@
 import About from "../Components/About/About";
+import Dashboard from "../Components/Dashboard/Dashboard";
 import AccountPage from "../Components/AccountPage/AccountPage";
 import Cart from "../Components/Cart/Cart";
 import CheckoutPage from "../Components/CheckoutPage/CheckoutPage";
